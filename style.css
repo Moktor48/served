@@ -5,3 +5,29 @@
 #main {
     justify-content: center;
 }
+
+.Cal_Box {
+    border: solid;
+    /* set minimum height: ;
+       set minimum width: ;
+       set font-size: ;
+       set colors - font/background: ;
+       
+    */
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    
+}
+
+th {
+   height: 20px;
+   width: 80px; 
+}
+
+td {
+    height: 80px;
+    width: 80px;
+}
