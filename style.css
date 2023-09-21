@@ -30,4 +30,6 @@ th {
 td {
     height: 80px;
     width: 80px;
+    text-align: right;
+    vertical-align: top;
 }
