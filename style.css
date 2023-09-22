@@ -28,8 +28,12 @@ th {
 }
 
 td {
-    height: 80px;
-    width: 80px;
+    height: 180px;
+    width: 180px;
     text-align: right;
     vertical-align: top;
+}
+
+td, p {
+    text-align: left;
 }
